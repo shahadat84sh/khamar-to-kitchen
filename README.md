@@ -1,4 +1,7 @@
-# React + Vite
+# Khamar to Kitchen
+if you run it into your local computer just clone this repo and then run into your vs code.
+You have to install npm-install
+this project will run 5173
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
